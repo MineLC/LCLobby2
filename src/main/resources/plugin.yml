@@ -1,0 +1,5 @@
+name: Lobby2
+version: '${project.version}'
+main: lc.lobby2.Lobby2
+depend:
+  - Core2
